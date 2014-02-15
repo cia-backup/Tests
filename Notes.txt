@@ -1,0 +1,3 @@
+-don't use conio.h -> (OS specific)
+	-instead, use cin.ignore(); cin.getch();
+-use <cmath> instead of <math.h>

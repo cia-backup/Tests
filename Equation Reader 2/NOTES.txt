@@ -1,0 +1,2 @@
+To-do:
+	-get operation between terms (USE VECTOR)
